@@ -46,5 +46,4 @@
 
 <details open>
     <summary><h2>👨‍🎓 LeetCode Stats:</h2></summary>
-    <img src="https://leetcard.jacoblin.cool/Kalts_Daniil?ext=heatmap" alt="LeetCode Stats" />
 </details>
